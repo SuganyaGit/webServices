@@ -1,0 +1,13 @@
+http://javadecodedquestions.blogspot.in/2013/01/design-pattern-in-java.html
+
+http://java-questions.com/garbagecollection-interview-questions.html
+
+http://www.guru99.com/java-stack-heap.html
+
+http://www.journaldev.com/
+
+http://crunchify.com/how-to-build-restful-service-with-java-using-jax-rs-and-jersey/
+
+http://www.java4s.com/web-services/restful-web-service-jax-rs-json-example-using-jersey/
+
+
