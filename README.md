@@ -1,5 +1,4 @@
-# webServices
-# Web service is a technology to communicate one programming language with another. For example, java programming language can interact with PHP and .Net by using web services. In other words, web service provides a way to achieve interoperability.
+Web service is a technology to communicate one programming language with another. For example, java programming language can interact with PHP and .Net by using web services. In other words, web service provides a way to achieve interoperability.
 
 Advantages of RESTful Web Services
   Fast: RESTful Web Services are fast because there is no strict specification like SOAP. It consumes less bandwidth and resource.
